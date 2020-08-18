@@ -1,4 +1,4 @@
-# Como usar?:
+# Como usar:
 
 - Listar notas: `node app.js list`
 - Adicionar uma nota: `node app.js add --title="Dispêndio" --body="aquilo que se gasta, se consome."`
